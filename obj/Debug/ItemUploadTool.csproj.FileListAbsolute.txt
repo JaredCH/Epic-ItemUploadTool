@@ -1,0 +1,191 @@
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe.config
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.pdb
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csprojAssemblyReference.cache
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form1.resources
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Properties.Resources.resources
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.GenerateResource.cache
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CoreCompileInputs.cache
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.exe
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.pdb
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form2.resources
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.dll
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.xml
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CopyComplete
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe.manifest
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.application
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.exe.manifest
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.application
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form3.resources
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\FractionalNumber.dll
+C:\Users\jared.hicks\source\repos\ItemUploadTool\ItemUploadTool\bin\Debug\FractionalNumber.pdb
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe.config
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe.manifest
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.application
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.exe
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ItemUploadTool.pdb
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.dll
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\FractionalNumber.dll
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.xml
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\FractionalNumber.pdb
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csprojAssemblyReference.cache
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form1.resources
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form2.resources
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Form3.resources
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.Properties.Resources.resources
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.GenerateResource.cache
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CoreCompileInputs.cache
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.exe.manifest
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.application
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CopyComplete
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.exe
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\obj\Debug\ItemUploadTool.pdb
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\Microsoft.VisualStudio.PerformanceTools.Automation.dll
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\EnvDTE.dll
+C:\Users\jared.hicks\Desktop\ItemUploadTool\ItemUploadTool\bin\Debug\stdole.dll
+D:\Source Code\ItemUploadTool\bin\Debug\ItemUploadTool.exe.config
+D:\Source Code\ItemUploadTool\bin\Debug\ItemUploadTool.exe.manifest
+D:\Source Code\ItemUploadTool\bin\Debug\ItemUploadTool.application
+D:\Source Code\ItemUploadTool\bin\Debug\ItemUploadTool.exe
+D:\Source Code\ItemUploadTool\bin\Debug\ItemUploadTool.pdb
+D:\Source Code\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Source Code\ItemUploadTool\bin\Debug\ExcelDataReader.dll
+D:\Source Code\ItemUploadTool\bin\Debug\FractionalNumber.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Microsoft.VisualStudio.PerformanceTools.Automation.dll
+D:\Source Code\ItemUploadTool\bin\Debug\EnvDTE.dll
+D:\Source Code\ItemUploadTool\bin\Debug\stdole.dll
+D:\Source Code\ItemUploadTool\bin\Debug\ExcelDataReader.xml
+D:\Source Code\ItemUploadTool\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Source Code\ItemUploadTool\bin\Debug\FractionalNumber.pdb
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.csprojAssemblyReference.cache
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.Form1.resources
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.Form2.resources
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.Form3.resources
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.Properties.Resources.resources
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.GenerateResource.cache
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CoreCompileInputs.cache
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.exe.manifest
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.application
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.csproj.CopyComplete
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.exe
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.pdb
+D:\Source Code\ItemUploadTool\obj\Debug\ItemUploadTool.exe.config
+D:\Source Code\ItemUploadTool\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\netstandard.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.AppContext.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Collections.Concurrent.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Collections.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Collections.NonGeneric.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Collections.Specialized.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ComponentModel.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Console.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Data.Common.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.Debug.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.Process.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.Tools.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Drawing.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Dynamic.Runtime.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Globalization.Calendars.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Globalization.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Globalization.Extensions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.Compression.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.FileSystem.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.Pipes.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Linq.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Linq.Expressions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Linq.Parallel.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Linq.Queryable.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Http.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.NameResolution.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.NetworkInformation.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Ping.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Requests.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Security.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.Sockets.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Net.WebSockets.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ObjectModel.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Reflection.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Reflection.Extensions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Reflection.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Resources.Reader.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Resources.ResourceManager.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Resources.Writer.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Extensions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Handles.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.InteropServices.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Numerics.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Claims.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.Principal.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Security.SecureString.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Text.Encoding.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Text.RegularExpressions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Overlapped.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Tasks.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Thread.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.ThreadPool.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Timer.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.ValueTuple.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.XDocument.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.XmlDocument.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.XPath.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.Data.Protection.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.Json.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.Packaging.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.Storage.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.VersionControl.dll
+D:\Source Code\ItemUploadTool\bin\Debug\Carbon.Versioning.dll
+D:\Source Code\ItemUploadTool\bin\Debug\GitHub.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Buffers.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Memory.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Numerics.Vectors.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Text.Encodings.Web.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Source Code\ItemUploadTool\bin\Debug\System.Buffers.xml
+D:\Source Code\ItemUploadTool\bin\Debug\System.Memory.xml
+D:\Source Code\ItemUploadTool\bin\Debug\System.Numerics.Vectors.xml
+D:\Source Code\ItemUploadTool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source Code\ItemUploadTool\bin\Debug\System.Text.Encodings.Web.xml
+D:\Source Code\ItemUploadTool\bin\Debug\System.Threading.Tasks.Extensions.xml
