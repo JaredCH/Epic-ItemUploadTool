@@ -70,3 +70,10 @@ Below is an outline of each tab within the application, and some of the processe
 -	Partcode checker; checks segment description against client description for matches.
 -	Partcode builder; checks client description for strings and auto generates the Partcode for them, with options to have multiple settings / per job settings.
 -	Build in a live weight and surface area table in SQL and have the info pulled in correctly when building new Partcodes / with option to submit new weights and surface area if one doesn’t exist.
+
+
+
+
+This program shall stick to my personal philosphy of 70/30, where 70% of the programs functions shall be imediately recognizeable  without proper instruction, the other 30% shall be in a format that remains the same over the entire software, an example would be, all buttons that contain an Asterix have a right click option enabled. 
+
+All additions / new functions shall be tested for a few weeks by my self and other like minded individuals before publishing to the company.
