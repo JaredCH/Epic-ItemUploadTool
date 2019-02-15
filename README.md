@@ -61,9 +61,11 @@ Below is an outline of each tab within the application, and some of the processe
 -	Button 'Select All and Copy' will copy the DataGrid tables output for pasting in excel.
 -	(note for above feature, make sure you have escaped out of the excel copy (the moving green dashes around a field of copied info) before pressing this button or it does not work.
 
+**4.	Tab 4 - BOM Lookup**
+	- This tab is to aid in Short report evaluations, a way to view the spool take off by only having the barcode, or job-spool number. The return info is pulled directly from the MTO DB.
+-	to be added.
 
-
-**4.	Future Adaptations / To be added**
+**5.	Future Adaptations / To be added**
 	-	These are potential future adaptations I would like to add into the software assuming time is allocated to do so. I strongly believe each one of these features will greatly reduce the amount of time needed to perform our daily tasks.	
 -	Partcode Description builder; drop downs / typing fields with auto complete to select segments and once complete the description is built.
 -	(sub feature for above) Options to batch generate parts between size ranges.
