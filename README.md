@@ -6,7 +6,7 @@ ITEM UPLOAD TOOL
 BY JARED HICKS
 July 25, 2018
 
-This is a live / deployed Application being used by Epic Piping, its primary purpose is to speed up any processes that can be improved upon, while also decreaseing the rick for errors.
+This is a live / deployed Application being used by Epic Piping, its primary purpose is to speed up any processes that can be improved upon, while also decreaseing the risk for errors.
 
 This documentation is not up to date as of 2-15-2019, updates to the documentation will be made shortly.
 
