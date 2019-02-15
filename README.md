@@ -10,6 +10,8 @@ This is a live / deployed Application being used by Epic Piping, its primary pur
 
 This documentation is not up to date as of 2-15-2019, updates to the documentation will be made shortly.
 
+Below is an outline of each tab within the application, and some of the processes it performs.
+
 
 **1.	Tab 1 - Fittings**
   - This Tab is for the processing and creation of all Partcodes not related to supports and originating from any source.	
