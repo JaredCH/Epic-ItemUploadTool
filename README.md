@@ -79,3 +79,11 @@ Below is an outline of each tab within the application, and some of the processe
 This program shall stick to my personal philosphy of 70/30, where 70% of the programs functions shall be imediately recognizeable  without proper instruction, the other 30% shall be in a format that remains the same over the entire software, an example would be, all buttons that contain an Asterix have a right click option enabled. 
 
 All additions / new functions shall be tested for a few weeks by my self and other like minded individuals before publishing to the company.
+
+![IUT 1](https://user-images.githubusercontent.com/32394719/177992240-98a60940-9151-4795-87a9-089c4be11b5a.png)
+![IUT 2](https://user-images.githubusercontent.com/32394719/177992241-4cce2c05-26cb-44ed-afcc-b979c66206d6.png)
+![IUT 3](https://user-images.githubusercontent.com/32394719/177992242-da7c47ec-d99b-4388-a4a5-1801af496b8b.png)
+![IUT 4](https://user-images.githubusercontent.com/32394719/177992243-a99bd063-f803-4ab5-96d9-026b2f6be21e.png)
+![IUT 5](https://user-images.githubusercontent.com/32394719/177992233-ff89c139-97e2-4399-bb11-2583734e2509.png)
+![IUT 6](https://user-images.githubusercontent.com/32394719/177992235-25e0c7e7-c0a5-4c02-b079-9b98bec21215.png)
+![IUT 7](https://user-images.githubusercontent.com/32394719/177992238-fe2e9f2b-242b-4bd8-abe6-896d8ee76055.png)
